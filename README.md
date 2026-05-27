@@ -130,8 +130,7 @@ The comparative analysis showed that balancing techniques significantly improved
 - Random Forest achieved strong overall performance.
 - ADASYN improved fraud recall for KNN.
 - SMOTE and ADASYN both helped reduce bias toward the majority class.
-
-
+ 
 ---
 
 ## Future Improvements
@@ -147,8 +146,3 @@ The comparative analysis showed that balancing techniques significantly improved
 
 Nivetha N
 
----
-
-## License
-
-This project is licensed under the MIT License.
